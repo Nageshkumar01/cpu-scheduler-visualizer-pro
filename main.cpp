@@ -1,5 +1,13 @@
-#include <bits/stdc++.h>
 #include "parser.h"
+#include <iostream>
+#include <vector>
+#include <queue>
+#include <tuple>
+#include <unordered_map>
+#include <string>
+#include <sstream>
+#include <iomanip>
+#include <cmath>
 
 #define all(v) v.begin(), v.end()
 
