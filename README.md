@@ -122,7 +122,11 @@ For the Aging algorithm, use: `name,arrival_time,priority`
 │  │  Gantt Chart    │  │      Timeline Graph                │ │
 │  └─────────────────┘  └─────────────────────────────────────┘ │
 └─────────────────────────────────────────────────────────────┘
+
+
+
 ```
+
 
 ### Features Breakdown
 
