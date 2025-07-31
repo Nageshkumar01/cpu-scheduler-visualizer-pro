@@ -124,18 +124,16 @@ For the Aging algorithm, use: `name,arrival_time,priority`
 └─────────────────────────────────────────────────────────────┘
 
 ## 🔍 Sample Screenshots
+## 🔍 Sample Screenshots
 
 ### 🖼️ Screenshot 1
-![Gantt Chart 1](C:\ptu placement\placement project\CPU-Scheduling-Algorithms\Output_/Screenshot%20(1533).png)
-![alt text](image.png)
+![Gantt Chart 1](Output_/Screenshot_1533.png)
 
 ### 🖼️ Screenshot 2
-![Gantt Chart 2](C:\ptu placement\placement project\CPU-Scheduling-Algorithms\Output_/Screenshot%20(1534).png)
+![Gantt Chart 2](Output_/Screenshot_1534.png)
 
 ### 🖼️ Screenshot 3
-![Gantt Chart 3](C:\ptu placement\placement project\CPU-Scheduling-Algorithms\Output_/Screenshot%20(1537).png)
-![alt text](Output_/Screenshot (1542).png)
-
+![Gantt Chart 3](Output_/Screenshot_1537.png)
 
 ```
 
