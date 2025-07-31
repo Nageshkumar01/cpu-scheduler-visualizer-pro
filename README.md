@@ -132,8 +132,7 @@ For the Aging algorithm, use: `name,arrival_time,priority`
 ![Gantt Chart 2](https://raw.githubusercontent.com/Nageshkumar01/cpu-scheduler-visualizer-pro/main/Screenshot%20(1534).png)
 
 ### 🖼️ Screenshot 3
-![Gantt Chart 3](https://raw.githubusercontent.com/Nageshkumar01/cpu-scheduler-visualizer-pro/main/image.png)
-
+![Gantt Chart 3](https://github.com/Nageshkumar01/cpu-scheduler-visualizer-pro/blob/77371ed8c0cc0c0b9360ccc4fa65af28ceae4567/image.png)
 
 ```
 
