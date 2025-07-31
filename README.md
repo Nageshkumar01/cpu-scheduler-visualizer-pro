@@ -131,11 +131,10 @@ For the Aging algorithm, use: `name,arrival_time,priority`
 
 ### 🖼️ Screenshot 2
 ![Gantt Chart 2](Output_/Screenshot%20(1534).png)
-![alt text](<Output_/Screenshot (1535).png>)
 
 ### 🖼️ Screenshot 3
 ![Gantt Chart 3](Output_/Screenshot%20(1537).png)
-![alt text](<Output_/Screenshot (1542).png>)
+![alt text](Output_/Screenshot (1542).png)
 
 
 ```
