@@ -75,6 +75,11 @@ tkinter>=8.6
 matplotlib>=3.5.0
 numpy>=1.21.0
 ```
+### Screenshots
+<img width="1920" height="1080" alt="Screenshot (1533)" src="https://github.com/user-attachments/assets/c130e37f-0384-4baa-9cbf-175fa6ac0642" />
+<img width="1920" height="1080" alt="Screenshot (1533)" src="https://github.com/user-attachments/assets/72160a29-d914-49fb-a260-b727e0e60f03" />
+
+
 
 ## 🎯 Usage
 
